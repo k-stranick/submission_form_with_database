@@ -13,8 +13,8 @@ public class DatabaseManager {
     private static final String CURRENT_DATABASE_URL = "jdbc:mysql://localhost:3306/information_form_schema";
     private static final String DB_NAME = "information_form_schema";
     private static final String TABLE_NAME = "personal_info";
-    private static final String USER = "root";
-    private static final String PASSWORD = "aq1SW@de3FR$";
+    private static final String USER = "ENTER_YOUR_USERNAME"; // *HERE*
+    private static final String PASSWORD = "ENTER_YOUR_PASSWORD"; // *HERE*
 
     private DatabaseManager() {
     }
